@@ -1,0 +1,3 @@
+ADMkmrHCRg,testing123,Abc9473812,Testing,MALE,testing@gmail.com,6012345678,ADMIN
+ADMTPyGmOZ,testing,Abc012345,testing,MALE,testing@gmail.com,60123456,ADMIN
+ADMoaVIZpy,jh12345,P@ssword1,John Heng,MALE,testing@gmail.com,60123456,ADMIN

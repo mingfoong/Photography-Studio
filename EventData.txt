@@ -1,0 +1,3 @@
+EVT1Kf4L8m,Birthday Bash,EVENT,1500.0,YES,50,Birthday,APT1Kf4L8mQ
+EVT2Hj6N1r,Corporate Meetup,EVENT,2500.0,YES,100,Corporate,APT2Hj6N1rS
+EVT3Lp9Q3x,Product Launch Event,EVENT,3000.0,YES,120,Product Launch,APT3Lp9Q3xV

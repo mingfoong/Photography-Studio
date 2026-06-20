@@ -1,0 +1,10 @@
+CLT4fG5hJ6K,johndoe123,abcd1234,John Doe,MALE,john.doe@gmail.com,60123456789,CLIENT,5,12500.0
+CLT5gH6iJ7K,janeroe456,Abc123Xyz,Jane Roe,FEMALE,jane.roe@gmail.com,60123456790,CLIENT,3,7500.0
+CLT6hI7jK8L,boblee789,QwErTy12,Bob Lee,MALE,bob.lee@gmail.com,60123456791,CLIENT,4,9000.0
+CLT8jK9lM0N,tomclark654,MnBv1234,Tom Clark,MALE,tom.clark@gmail.com,60123456793,CLIENT,6,15000.0
+CLT9bX7dY3P,mariagomez111,ZaX123qWe,Maria Gomez,FEMALE,maria.gomez@gmail.com,60123456799,CLIENT,2,5000.0
+CLT8vC5kW1L,alextan222,QwEr123Ty,Alex Tan,MALE,alex.tan@gmail.com,60123456800,CLIENT,3,7500.0
+CLT2xY8zA1B,sarahkong101,Pass123Word,Sarah Kong,FEMALE,sarah.kong@gmail.com,60198765432,CLIENT,7,11000.0
+CLT7nM3pQ9R,davidng888,XyZ789!Abc,David Ng,MALE,david.ng@gmail.com,60187654321,CLIENT,1,3000.0
+CLT1kL5mN7P,laurawong222,Lw987#Ghi,Laura Wong,FEMALE,laura.wong@gmail.com,60191234567,CLIENT,4,8500.0
+CLT3pQ6rS8T,mikechan333,Mk!456Cde,Mike Chan,MALE,mike.chan@gmail.com,60172345678,CLIENT,5,12000.0

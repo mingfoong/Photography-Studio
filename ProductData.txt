@@ -1,0 +1,3 @@
+PDCf7H2kQ9,Electronics Shoot,PRODUCT,220.00,YES,Laptop,3,High,APTq7R4mX1
+PDCa3L8nP2,Food Product Shoot,PRODUCT,160.00,YES,Coffee Set,5,Medium,APTu2L8fD3
+PDCm5T4wR8,Fashion Product Shoot,PRODUCT,270.00,YES,Handbag,4,High,APTn5H3vK7
